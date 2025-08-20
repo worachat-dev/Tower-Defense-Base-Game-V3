@@ -16,7 +16,6 @@ Developed as part of a learning and teaching project by **Worachat Wannawong, Ph
 ---
 
 ## 📂 Project Structure
-```
 
 .
 ├── index.html     # Main HTML file with canvas and footer
@@ -24,7 +23,6 @@ Developed as part of a learning and teaching project by **Worachat Wannawong, Ph
 ├── script.js      # Core game logic (grid, defenders, enemies, resources)
 └── favicon.ico    # Optional site icon
 
-````
 
 ---
 
@@ -32,7 +30,7 @@ Developed as part of a learning and teaching project by **Worachat Wannawong, Ph
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/worachat-dev/tower-defense-v3.git
-````
+
 
 2. Open **index.html** in your browser.
 3. Start playing! 🎮
