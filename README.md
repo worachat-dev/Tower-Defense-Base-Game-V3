@@ -16,6 +16,7 @@ Developed as part of a learning and teaching project by **Worachat Wannawong, Ph
 ---
 
 ## 📂 Project Structure
+```
 
 .
 ├── index.html     # Main HTML file with canvas and footer
@@ -23,6 +24,7 @@ Developed as part of a learning and teaching project by **Worachat Wannawong, Ph
 ├── script.js      # Core game logic (grid, defenders, enemies, resources)
 └── favicon.ico    # Optional site icon
 
+````
 
 ---
 
